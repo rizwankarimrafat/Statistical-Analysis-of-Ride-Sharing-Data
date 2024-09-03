@@ -1,0 +1,257 @@
+TripId,DriverAge,DriverGender,PassengerGender,DriverRating,PassengerRating,PickupLoc,DropoffLoc,Fare,TripDist,Duration,Weather,VehicleType,PickupTime,Tip,DayofWeek
+1,18,Male,Female,4,4,Manly,Circular Quay,59.2,20.5,34.7,Clear,SUV,Midday,2,Tuesday
+2,56,Non-binary,Female,5,4,Manly,Central,82.3,21.1,32.7,Rainy,SUV,Early Morning,3,Tuesday
+3,29,Female,Male,3,3,Newtown,Paddington,64.8,20,26,Rainy,Sedan,Midday,6,Saturday
+4,51,Male,Female,3,4,Parramatta,Kings Cross,102.4,32.6,39.1,Sunny,Van,Evening,7,Tuesday
+5,47,Female,Male,4,4,Darlinghurst,Cronulla,83.6,29.9,47.5,Clear,Sedan,Afternoon,2,Friday
+6,63,Female,Non-binary,4,3,Parramatta,Circular Quay,61.7,22,25.4,Rainy,Sedan,Early Morning,4,Sunday
+7,35,Female,Male,3,4,Airport,Paddington,80,21.3,28.4,Clear,Luxury,Afternoon,3,Friday
+8,22,Non-binary,Female,4,3,Kings Cross,Surry Hills,14.5,2.2,11.2,Rainy,Sedan,Afternoon,8,Saturday
+9,23,Male,Non-binary,3,4,Bondi,Parramatta,74.6,21,31,Clear,Sedan,Evening,3,Thursday
+10,35,Male,Male,4,4,Airport,Parramatta,76.6,21.3,33.5,Rainy,Luxury,Early Morning,6.5,Sunday
+11,35,Non-binary,Female,3,3,Circular Quay,Parramatta,77.5,34.3,38.2,Rainy,Luxury,Evening,7,Sunday
+12,18,Female,Female,4,4,Central,Cockle Bay,12.6,3.2,8.4,Sunny,Sedan,Afternoon,0,Monday
+13,28,Male,Non-binary,4,4,Circular Quay,Mosman,37.7,8.3,16.4,Cloudy,Sedan,Evening,4,Sunday
+14,62,Male,Male,4,4,Parramatta,Surry Hills,81.4,24.7,37.3,Rainy,Sedan,Night,4,Wednesday
+15,30,Female,Male,4,4,Kings Cross,Kings Cross,62.8,22.1,35,Rainy,Sedan,Evening,8,Wednesday
+16,26,Female,Female,2,3,Newtown,Bondi,83.8,19,32,Sunny,Sedan,Early Morning,4,Saturday
+17,24,Female,Male,3,2,Central,Manly,53.8,19.5,36,Clear,Sedan,Afternoon,3,Tuesday
+18,28,Female,Male,4,3,Central,Central,67.5,20.4,32.6,Rainy,SUV,Night,5,Thursday
+19,58,Non-binary,Male,4,3,Central,Paddington,13.6,3.3,10.8,Clear,Sedan,Evening,7,Monday
+20,28,Male,Female,3,5,Bondi,Mosman,78.8,15.8,31.7,Rainy,Economy,Evening,6,Saturday
+21,39,Non-binary,Male,4,3,Bondi,Parramatta,80.4,22.6,31,Clear,Van,Morning,6,Monday
+22,38,Male,Female,4,3,Bondi,Coogee,25.6,4.6,17.3,Sunny,Economy,Afternoon,9,Monday
+23,25,Female,Female,4,4,Redfern,Surry Hills,15.8,1.9,5.1,Cloudy,Sedan,Evening,10,Thursday
+24,22,Male,Female,3,3,Parramatta,Olympic Park,40.5,9.9,16.8,Sunny,Van,Night,6,Sunday
+25,47,Female,Female,4,5,Airport,Parramatta,69.7,22.7,29,Clear,Sedan,Morning,8,Thursday
+26,37,Male,Non-binary,3,3,Kings Cross,Kings Cross,60.2,19.4,25.6,Clear,Van,Midday,3,Sunday
+27,42,Male,Male,3,4,Airport,Kings Cross,78.2,21.4,28.6,Rainy,Luxury,Early Morning,9,Sunday
+28,24,Male,Male,3,2,Manly,Kings Cross,69.6,23,29.2,Sunny,Luxury,Morning,3,Thursday
+29,43,Male,Male,3,4,Surry Hills,Manly,75,19.6,41,Rainy,Sedan,Evening,10,Thursday
+30,22,Female,Female,4,3,Kings Cross,Parramatta,62.7,19.2,32.7,Sunny,Sedan,Morning,7,Tuesday
+31,35,Male,Male,3,4,Airport,Mosman,74.3,20.1,26.6,Rainy,Luxury,Early Morning,7,Sunday
+32,33,Female,Male,5,3,Newtown,Redfern,58.4,21.3,34,Rainy,Sedan,Early Morning,6,Friday
+33,28,Male,Male,3,3,Darlinghurst,Redfern,24.1,3,18.7,Sunny,SUV,Morning,1,Monday
+34,37,Male,Male,5,4,Airport,Double Bay,75,22.1,31.7,Rainy,Sedan,Early Morning,8,Sunday
+35,43,Male,Male,3,4,Airport,Bondi,73.9,21.6,29.7,Rainy,Luxury,Early Morning,9,Sunday
+36,40,Male,Female,4,3,Double Bay,Mosman,38.1,12.6,23.5,Clear,Economy,Early Morning,1,Thursday
+37,28,Male,Female,4,4,Darlinghurst,Bondi,29,5.3,18.6,Cloudy,Luxury,Morning,9,Monday
+38,25,Female,Female,4,4,Surry Hills,Manly,59.7,18.6,36.1,Rainy,Economy,Early Morning,7,Monday
+39,26,Female,Female,3,3,Cronulla,Double Bay,71.3,22.5,25.1,Clear,Economy,Early Morning,1,Tuesday
+40,61,Male,Female,5,4,Central,Redfern,15,1.9,8.9,Sunny,Luxury,Morning,3,Monday
+41,54,Male,Female,4,4,Airport,Cronulla,59,20.9,25.4,Cloudy,Economy,Afternoon,0,Wednesday
+42,24,Male,Female,3,3,Mosman,Paddington,67,19.8,34.4,Sunny,Sedan,Night,5,Saturday
+43,30,Non-binary,Male,3,3,Circular Quay,Double Bay,22.1,4.1,11.5,Clear,SUV,Midday,3,Monday
+44,40,Male,Non-binary,4,3,Bondi,Manly,97.5,22.6,39.8,Clear,Economy,Evening,7,Friday
+45,28,Non-binary,Male,4,4,Bondi,Kings Cross,61.3,22.3,29.7,Clear,Sedan,Midday,2,Wednesday
+46,53,Female,Non-binary,3,4,Redfern,Redfern,63.9,20.3,34.2,Sunny,Economy,Evening,1,Friday
+47,47,Female,Male,3,3,Cronulla,Paddington,56.5,20,34.5,Sunny,Sedan,Morning,1,Tuesday
+48,20,Female,Male,4,4,Airport,Redfern,67.3,21.6,26.1,Cloudy,Economy,Evening,3,Wednesday
+49,27,Male,Female,4,2,Kings Cross,Parramatta,63.4,19.9,28.9,Rainy,Economy,Morning,2,Thursday
+50,63,Male,Male,5,4,Surry Hills,Newtown,28.9,5.7,24.6,Cloudy,Economy,Early Morning,8,Friday
+51,51,Female,Male,2,4,Circular Quay,Coogee,44.3,9,27.5,Cloudy,Sedan,Evening,2,Wednesday
+52,45,Non-binary,Non-binary,4,4,Central,Manly,50.2,15.7,37.1,Cloudy,Economy,Evening,1,Tuesday
+53,37,Male,Male,5,3,Airport,Central,79.9,22.7,29.7,Rainy,SUV,Night,4,Tuesday
+54,22,Male,Male,5,3,Darlinghurst,Paddington,12.2,1.4,11.5,Sunny,Luxury,Evening,3,Monday
+55,50,Non-binary,Male,3,4,Mosman,Bondi,61.6,19.2,32.8,Sunny,Economy,Night,5,Wednesday
+56,25,Male,Male,4,4,Surry Hills,Manly,76.8,19.1,33.2,Clear,Luxury,Afternoon,4,Friday
+57,51,Female,Female,3,4,Central,Central,62.5,19.3,26.1,Rainy,Sedan,Evening,1,Thursday
+58,24,Female,Female,2,4,Redfern,Kings Cross,65.7,21.2,25.3,Rainy,Sedan,Early Morning,2,Friday
+59,39,Male,Male,4,4,Airport,Central,54.3,21.2,27.1,Rainy,Economy,Early Morning,5.5,Sunday
+60,54,Female,Female,2,4,Manly,Paddington,61.7,21.1,29.5,Clear,Economy,Midday,9,Saturday
+61,44,Male,Male,3,2,Airport,Double Bay,78.9,22,32.5,Rainy,Sedan,Early Morning,9.5,Sunday
+62,22,Female,Male,4,2,Mosman,Parramatta,80.2,20.7,32.7,Clear,SUV,Afternoon,3,Thursday
+63,21,Male,Male,3,3,Surry Hills,Central,58.2,22.3,31.6,Rainy,Sedan,Afternoon,4,Thursday
+64,26,Male,Female,3,3,Surry Hills,Redfern,64.7,19.1,25.4,Cloudy,SUV,Evening,1,Saturday
+65,37,Female,Female,4,3,Coogee,Newtown,42.2,10.8,33.1,Rainy,Sedan,Midday,2,Monday
+66,55,Male,Female,3,3,Newtown,Coogee,70.1,20.6,31.1,Rainy,Economy,Morning,6,Monday
+67,45,Male,Male,4,3,Surry Hills,Darlinghurst,78.6,20,26,Rainy,Sedan,Afternoon,7,Sunday
+68,52,Female,Female,4,3,Airport,Olympic Park,74.7,19.2,28.9,Cloudy,Van,Night,6,Tuesday
+69,44,Female,Male,3,5,Mosman,Redfern,69.9,19.5,33,Sunny,SUV,Early Morning,3,Tuesday
+70,61,Female,Male,4,3,Redfern,Cockle Bay,19.6,3.7,18.4,Rainy,Luxury,Morning,2,Friday
+71,36,Non-binary,Female,4,3,Cockle Bay,Central,76.6,22.3,28.8,Rainy,Sedan,Morning,4,Friday
+72,62,Non-binary,Male,4,4,Coogee,Olympic Park,78.2,23.9,42.5,Sunny,Economy,Evening,1,Tuesday
+73,30,Male,Non-binary,4,4,Redfern,Central,83.7,19.5,27.4,Clear,Economy,Midday,5,Wednesday
+74,23,Male,Male,4,4,Cockle Bay,Double Bay,77.3,22.5,34.5,Clear,Van,Morning,9,Friday
+75,25,Male,Female,4,3,Manly,Parramatta,68.7,22.5,31.7,Cloudy,Sedan,Early Morning,4,Friday
+76,28,Male,Male,4,3,Newtown,Central,82.2,21.3,27.6,Rainy,Economy,Afternoon,3,Sunday
+77,34,Male,Male,3,3,Parramatta,Circular Quay,68.4,20.9,25.5,Rainy,Van,Morning,6,Wednesday
+78,52,Male,Male,4,4,Darlinghurst,Manly,50.1,17.1,38,Cloudy,Economy,Night,0,Sunday
+79,54,Female,Non-binary,4,3,Cronulla,Cockle Bay,100.9,33,41.5,Rainy,Sedan,Midday,6,Tuesday
+80,42,Male,Male,3,4,Airport,Double Bay,57.7,19.7,27.2,Rainy,Luxury,Early Morning,7.5,Sunday
+81,34,Female,Male,3,4,Newtown,Newtown,61,19.3,25.8,Clear,Sedan,Morning,1,Tuesday
+82,30,Male,Male,4,5,Darlinghurst,Newtown,28.3,6.2,29.2,Rainy,Economy,Early Morning,9,Wednesday
+83,51,Male,Male,4,3,Cronulla,Coogee,55.1,22.8,32.7,Rainy,Sedan,Evening,2,Monday
+84,38,Male,Female,3,3,Kings Cross,Manly,60,17.1,40.5,Cloudy,Van,Afternoon,6,Wednesday
+85,25,Female,Non-binary,4,3,Circular Quay,Bondi,31.9,9.5,26.200000000000003,Rainy,Economy,Morning,5,Monday
+86,49,Female,Male,3,4,Circular Quay,Double Bay,25.9,4.3,14.7,Rainy,Economy,Morning,5,Sunday
+87,41,Female,Female,5,4,Central,Cockle Bay,17.7,2.2,7.3,Clear,Luxury,Early Morning,2,Thursday
+88,18,Female,Female,3,4,Redfern,Darlinghurst,66,20.1,28.8,Cloudy,Van,Early Morning,9,Friday
+89,51,Male,Female,3,4,Newtown,Mosman,52.7,14.8,33.5,Sunny,Luxury,Afternoon,6,Saturday
+90,45,Male,Male,4,5,Airport,Darlinghurst,83.4,20.6,29.7,Rainy,Sedan,Early Morning,9,Sunday
+91,19,Female,Male,2,3,Darlinghurst,Double Bay,14.3,2.6,10.5,Rainy,Economy,Evening,6,Saturday
+92,42,Female,Female,4,3,Darlinghurst,Olympic Park,55,23.4,33.4,Sunny,Sedan,Early Morning,8,Thursday
+93,55,Female,Female,3,4,Bondi,Paddington,23.9,4.8,12,Sunny,Sedan,Evening,8,Saturday
+94,22,Male,Male,3,4,Paddington,Mosman,51.8,11.5,23.1,Clear,Sedan,Afternoon,9,Friday
+95,45,Non-binary,Female,3,3,Newtown,Redfern,63.4,19.8,32.5,Rainy,Sedan,Afternoon,3,Monday
+96,40,Male,Male,4,3,Airport,Paddington,79.3,21.3,34.5,Rainy,Luxury,Early Morning,6,Sunday
+97,19,Male,Male,4,4,Cronulla,Surry Hills,55.5,21.3,29.5,Cloudy,Sedan,Early Morning,7,Friday
+98,45,Male,Male,4,4,Manly,Surry Hills,70.4,20.7,27,Sunny,Sedan,Evening,3,Sunday
+99,58,Female,Male,3,4,Manly,Circular Quay,81.1,21.9,30.8,Clear,Sedan,Morning,5,Saturday
+100,38,Male,Female,4,4,Redfern,Coogee,34.6,8.7,24.3,Rainy,Sedan,Evening,5,Friday
+101,35,Male,Female,3,3,Kings Cross,Redfern,24.6,4,16.3,Clear,Economy,Night,1,Sunday
+102,25,Female,Male,2,3,Circular Quay,Paddington,18,4.4,17.6,Cloudy,Sedan,Night,2,Thursday
+103,53,Male,Male,3,4,Airport,Manly,75.1,22.7,27.1,Rainy,Van,Night,9,Friday
+104,22,Male,Female,3,3,Bondi,Redfern,42.3,7.3,21.6,Sunny,SUV,Early Morning,4,Wednesday
+105,32,Female,Male,3,3,Manly,Parramatta,83.8,19.4,34.2,Rainy,SUV,Evening,8,Sunday
+106,50,Female,Male,3,3,Double Bay,Olympic Park,83.2,22,35.1,Sunny,SUV,Evening,4,Monday
+107,38,Female,Female,4,4,Newtown,Parramatta,71.3,21.1,29.3,Clear,Economy,Evening,8,Friday
+108,46,Female,Female,3,3,Manly,Parramatta,70.6,23,31.9,Clear,Sedan,Morning,0,Friday
+109,23,Non-binary,Female,5,4,Kings Cross,Bondi,28.1,5.4,16.6,Cloudy,SUV,Evening,2,Thursday
+110,40,Male,Male,4,4,Airport,Cronulla,79.1,20.3,28.2,Rainy,Luxury,Early Morning,6,Sunday
+111,54,Female,Male,5,4,Bondi,Cockle Bay,54.900000000000006,8.4,20.4,Rainy,Economy,Morning,5,Monday
+112,26,Male,Male,4,4,Surry Hills,Mosman,39.4,12.2,24.1,Rainy,Sedan,Evening,5,Thursday
+113,37,Male,Male,4,3,Airport,Central,82.6,22.9,27.4,Rainy,Luxury,Early Morning,9.5,Sunday
+114,35,Male,Female,4,3,Kings Cross,Newtown,31.8,7.6,26.7,Cloudy,Sedan,Evening,3,Thursday
+115,55,Male,Female,4,4,Redfern,Cockle Bay,21.2,5.2,11.2,Clear,Luxury,Midday,6,Wednesday
+116,30,Male,Male,3,3,Paddington,Circular Quay,61.3,21.9,29.4,Rainy,Sedan,Evening,7,Monday
+117,37,Male,Female,2,3,Airport,Cockle Bay,75.6,20,32.7,Cloudy,Economy,Midday,3,Wednesday
+118,45,Male,Non-binary,4,4,Bondi,Circular Quay,77,21.2,26,Sunny,Luxury,Early Morning,3,Tuesday
+119,42,Male,Male,4,4,Parramatta,Parramatta,73.8,22.4,32.4,Clear,Sedan,Afternoon,1,Sunday
+120,37,Female,Female,4,4,Surry Hills,Kings Cross,69.4,21.1,28.7,Sunny,Economy,Evening,5,Monday
+121,64,Male,Female,3,4,Surry Hills,Bondi,60.4,20.4,28.7,Sunny,Van,Afternoon,9,Friday
+122,49,Female,Male,4,4,Darlinghurst,Kings Cross,11.9,1,5.7,Rainy,Van,Evening,3,Friday
+123,43,Male,Female,5,4,Olympic Park,Circular Quay,61.4,22.5,29,Cloudy,Van,Afternoon,5,Saturday
+124,55,Male,Male,4,5,Newtown,Cronulla,92.4,26.8,54.8,Clear,Sedan,Early Morning,1,Thursday
+125,24,Male,Male,4,3,Circular Quay,Mosman,38.4,8.1,23.8,Rainy,Luxury,Evening,2,Wednesday
+126,40,Male,Male,4,4,Central,Manly,55.1,19.7,44.9,Rainy,SUV,Night,6,Friday
+127,25,Non-binary,Male,4,3,Airport,Darlinghurst,72.4,22,29.2,Rainy,Van,Midday,4,Thursday
+128,24,Male,Male,3,3,Coogee,Manly,101.2,22.5,42.1,Rainy,Luxury,Evening,6,Saturday
+129,44,Male,Male,2,4,Airport,Parramatta,66.4,22.9,25.6,Rainy,Luxury,Early Morning,6,Sunday
+130,43,Male,Male,4,3,Airport,Bondi,83.7,22.7,27.9,Rainy,Luxury,Early Morning,7,Sunday
+131,41,Male,Male,4,2,Redfern,Surry Hills,14.2,1.5,6.4,Cloudy,Sedan,Morning,5,Wednesday
+132,18,Female,Male,4,3,Paddington,Parramatta,73,19.1,32,Sunny,Economy,Midday,6,Thursday
+133,26,Male,Male,3,4,Manly,Manly,74.4,22.3,26.9,Clear,Luxury,Afternoon,5,Thursday
+134,59,Non-binary,Female,2,3,Newtown,Kings Cross,78.4,19.4,34.9,Rainy,Economy,Morning,1,Saturday
+135,31,Male,Male,4,3,Darlinghurst,Kings Cross,11.4,0.9,5.4,Clear,Economy,Morning,3,Monday
+136,43,Female,Female,4,3,Darlinghurst,Double Bay,17.9,2.6,14.600000000000001,Sunny,SUV,Morning,8,Monday
+137,51,Female,Female,4,3,Circular Quay,Surry Hills,18.8,3.5,18.9,Clear,Sedan,Morning,5,Thursday
+138,36,Male,Male,3,3,Airport,Central,62.5,22.4,30.7,Rainy,Luxury,Early Morning,6.5,Sunday
+139,64,Male,Female,3,4,Bondi,Manly,89.3,24.2,40.9,Rainy,SUV,Early Morning,4,Thursday
+140,38,Male,Non-binary,4,3,Parramatta,Surry Hills,74.2,27.9,48.3,Sunny,SUV,Afternoon,4,Wednesday
+141,27,Male,Female,3,4,Parramatta,Redfern,78.1,26.8,36.7,Cloudy,Van,Evening,0,Thursday
+142,22,Female,Male,3,5,Double Bay,Coogee,65,21.3,31.5,Clear,Van,Afternoon,0,Friday
+143,39,Female,Female,3,4,Cronulla,Circular Quay,57.5,22.1,29.4,Rainy,Sedan,Night,3,Friday
+144,30,Male,Female,3,4,Circular Quay,Cronulla,82.1,32.9,57.6,Sunny,Sedan,Afternoon,10,Monday
+145,35,Male,Female,4,4,Airport,Circular Quay,63,21.6,32.7,Sunny,Sedan,Afternoon,4,Friday
+146,29,Male,Male,3,2,Parramatta,Circular Quay,67.7,22.3,26.2,Clear,Economy,Evening,5,Friday
+147,52,Male,Male,3,4,Double Bay,Darlinghurst,80.9,21,27.1,Sunny,Sedan,Morning,4,Monday
+148,63,Male,Male,4,4,Airport,Mosman,57.3,22.9,33.9,Rainy,Economy,Evening,4,Monday
+149,49,Male,Male,4,4,Cronulla,Redfern,81.6,19.5,32.9,Clear,Sedan,Evening,7,Monday
+150,47,Female,Female,4,3,Kings Cross,Cockle Bay,27.3,3.4000000000000004,9,Rainy,Economy,Evening,7,Saturday
+151,40,Male,Male,4,3,Airport,Parramatta,66.3,22.7,29,Rainy,Sedan,Early Morning,8,Sunday
+152,37,Male,Male,4,3,Airport,Cronulla,63.7,21,34.2,Rainy,Luxury,Early Morning,5,Sunday
+153,62,Male,Male,3,3,Central,Kings Cross,17.6,2.7,14.5,Cloudy,Sedan,Midday,6,Friday
+154,32,Non-binary,Male,3,3,Circular Quay,Central,79.5,20,26,Clear,Sedan,Evening,7,Wednesday
+155,53,Non-binary,Female,3,4,Surry Hills,Circular Quay,80.9,21.8,25.9,Cloudy,Economy,Night,6,Friday
+156,40,Female,Female,4,3,Redfern,Kings Cross,71.2,22.6,32.1,Clear,Van,Night,9,Wednesday
+157,30,Male,Female,4,4,Double Bay,Olympic Park,95.4,21.8,33.9,Sunny,Sedan,Midday,3,Saturday
+158,63,Female,Female,4,5,Central,Cockle Bay,13.9,2.1,8.8,Rainy,Economy,Morning,5,Sunday
+159,34,Male,Male,2,3,Olympic Park,Darlinghurst,74.5,20.1,29.9,Clear,Economy,Midday,6,Tuesday
+160,44,Male,Male,3,4,Airport,Newtown,74.5,19.4,26.3,Rainy,SUV,Early Morning,9.5,Sunday
+161,34,Non-binary,Female,4,2,Redfern,Bondi,56.5,21.6,33,Rainy,Luxury,Night,4,Friday
+162,20,Male,Female,3,3,Coogee,Double Bay,32.1,7.73,22.72,Clear,Van,Evening,5,Saturday
+163,60,Male,Female,3,5,Cronulla,Newtown,72.3,20.3,25.9,Clear,Sedan,Early Morning,5,Tuesday
+164,24,Male,Female,4,3,Olympic Park,Darlinghurst,69,21.9,29.2,Rainy,Sedan,Evening,5,Tuesday
+165,58,Male,Non-binary,5,4,Newtown,Mosman,59.2,12.4,33.9,Rainy,Sedan,Morning,6,Monday
+166,40,Male,Female,3,4,Cronulla,Newtown,81.2,20.6,32.8,Sunny,Economy,Midday,4,Thursday
+167,47,Female,Female,4,3,Double Bay,Newtown,55.7,9.6,22.6,Rainy,SUV,Morning,3,Sunday
+168,38,Male,Male,3,4,Airport,Circular Quay,58.1,21.8,29.3,Rainy,Luxury,Early Morning,5,Sunday
+169,26,Male,Non-binary,3,4,Cockle Bay,Cronulla,70.3,21.5,27.8,Cloudy,Economy,Afternoon,2,Saturday
+170,32,Female,Male,4,4,Cockle Bay,Central,71.4,21.7,28.2,Sunny,Sedan,Midday,5,Tuesday
+171,59,Female,Non-binary,2,3,Central,Double Bay,23.4,5,17,Sunny,Sedan,Morning,4,Wednesday
+172,43,Female,Female,4,3,Circular Quay,Parramatta,71.2,36.3,41.1,Sunny,Economy,Early Morning,2,Tuesday
+173,64,Male,Male,3,3,Coogee,Parramatta,69.9,21.2,28.6,Sunny,Economy,Afternoon,8,Friday
+174,22,Male,Male,2,5,Cronulla,Parramatta,59.1,22,27.1,Cloudy,Sedan,Afternoon,5,Friday
+175,34,Male,Female,3,4,Coogee,Mosman,57,22.7,31.9,Sunny,Economy,Midday,3,Tuesday
+176,54,Male,Female,4,4,Manly,Cronulla,150,41.1,88.4,Cloudy,Economy,Night,1,Friday
+177,26,Male,Female,4,3,Coogee,Circular Quay,65.3,20.6,34.8,Clear,SUV,Night,8,Tuesday
+178,21,Male,Female,4,3,Airport,Circular Quay,63,21.9,31,Sunny,Economy,Afternoon,1,Saturday
+179,54,Male,Male,3,3,Double Bay,Central,62.1,21.6,33.5,Clear,Economy,Night,5,Saturday
+180,56,Female,Female,4,4,Central,Cockle Bay,12.3,3.2,14.600000000000001,Sunny,Economy,Afternoon,6,Thursday
+181,47,Female,Female,3,4,Bondi,Coogee,32.2,5.3,15.5,Clear,Economy,Midday,4,Monday
+182,30,Male,Male,3,4,Paddington,Cronulla,84.8,31.4,45,Sunny,Sedan,Evening,8,Thursday
+183,60,Male,Female,4,4,Airport,Surry Hills,82.5,21.5,28.2,Sunny,Sedan,Midday,8,Wednesday
+184,51,Male,Male,4,4,Kings Cross,Cockle Bay,22,2.1,7.3,Clear,Economy,Evening,2,Saturday
+185,32,Female,Female,4,4,Darlinghurst,Mosman,29.2,9.2,24.9,Clear,Economy,Midday,12,Monday
+186,47,Female,Female,3,3,Airport,Kings Cross,58.7,22.6,32.5,Cloudy,SUV,Evening,3,Tuesday
+187,44,Female,Female,4,4,Surry Hills,Manly,63.9,18.6,37.7,Clear,Sedan,Evening,6,Wednesday
+188,43,Male,Female,4,4,Darlinghurst,Olympic Park,78,24.3,38.3,Cloudy,Sedan,Afternoon,4,Wednesday
+189,23,Male,Male,3,4,Bondi,Surry Hills,37.4,6.4,15.2,Sunny,Economy,Midday,4,Monday
+190,43,Female,Non-binary,3,4,Bondi,Surry Hills,38.7,6.8,18,Rainy,SUV,Midday,3,Monday
+191,30,Female,Non-binary,3,4,Cronulla,Bondi,80.4,20.4,33.3,Clear,SUV,Evening,5,Wednesday
+192,22,Female,Non-binary,3,4,Olympic Park,Bondi,74.3,19,31.2,Rainy,Economy,Midday,2,Monday
+193,28,Male,Male,4,4,Airport,Parramatta,82.2,20.2,29,Rainy,Sedan,Evening,0,Sunday
+194,23,Female,Female,4,4,Cronulla,Redfern,71.9,19.5,31.6,Cloudy,Economy,Morning,1,Thursday
+195,46,Female,Female,4,3,Central,Coogee,31.2,8.6,24.5,Sunny,Sedan,Night,3,Friday
+196,40,Male,Male,4,4,Airport,Kings Cross,74.6,19.9,31,Rainy,Luxury,Early Morning,6,Sunday
+197,22,Female,Female,3,3,Cronulla,Newtown,64.8,22.3,27.8,Rainy,Sedan,Midday,5,Saturday
+198,62,Male,Female,3,3,Newtown,Darlinghurst,56.4,20.5,34.2,Rainy,Sedan,Early Morning,5,Sunday
+199,47,Male,Female,2,4,Parramatta,Parramatta,61.5,21.8,34.8,Sunny,Luxury,Morning,3,Saturday
+200,61,Male,Female,4,3,Airport,Surry Hills,59.1,22.8,29,Rainy,Sedan,Early Morning,6,Tuesday
+201,37,Female,Male,3,2,Olympic Park,Olympic Park,79.4,19.4,26.4,Cloudy,SUV,Evening,4,Sunday
+202,22,Non-binary,Female,4,3,Circular Quay,Surry Hills,16.6,3.1,15.4,Sunny,SUV,Midday,6,Wednesday
+203,36,Female,Male,4,3,Darlinghurst,Coogee,29.7,8,17.2,Cloudy,Sedan,Afternoon,6,Tuesday
+204,46,Male,Female,3,3,Cockle Bay,Central,70.5,20.4,27.2,Sunny,Sedan,Midday,4,Sunday
+205,37,Female,Female,3,4,Newtown,Paddington,74.3,21.9,33.2,Clear,Economy,Morning,8,Tuesday
+206,63,Female,Female,4,3,Olympic Park,Manly,64.4,20.6,34.5,Cloudy,Economy,Evening,1,Friday
+207,18,Female,Male,3,4,Parramatta,Newtown,86.7,26.1,40.8,Cloudy,Van,Evening,5,Sunday
+208,19,Female,Male,4,3,Parramatta,Double Bay,101.6,33.7,37.6,Rainy,Sedan,Evening,4,Sunday
+209,30,Female,Female,4,3,Mosman,Parramatta,76.5,22.6,31.4,Rainy,Sedan,Afternoon,7,Tuesday
+210,22,Non-binary,Male,3,3,Darlinghurst,Mosman,29.5,10.1,21.4,Sunny,Luxury,Midday,6,Monday
+211,34,Male,Female,4,4,Airport,Parramatta,62.3,19,32.5,Clear,Sedan,Early Morning,4,Sunday
+212,59,Male,Female,4,4,Manly,Central,78.4,22,26.9,Rainy,Sedan,Night,4,Tuesday
+213,29,Non-binary,Male,3,3,Redfern,Paddington,57.7,22.6,27,Clear,Sedan,Afternoon,7,Saturday
+214,35,Female,Male,3,4,Circular Quay,Coogee,36.5,9,24.6,Rainy,SUV,Early Morning,10,Wednesday
+215,49,Female,Female,3,5,Redfern,Circular Quay,54.2,19,34.3,Clear,Van,Morning,5,Tuesday
+216,52,Female,Female,3,4,Olympic Park,Cronulla,82,21.3,30.2,Cloudy,Sedan,Morning,1,Sunday
+217,19,Male,Female,3,4,Central,Kings Cross,16.1,2.8000000000000003,13.2,Clear,Economy,Morning,6,Friday
+218,42,Male,Male,3,4,Airport,Cronulla,78.1,22.5,30.6,Rainy,Van,Early Morning,10,Sunday
+219,32,Male,Male,4,3,Kings Cross,Kings Cross,70.7,21,34.8,Rainy,SUV,Midday,7,Tuesday
+220,42,Male,Male,3,3,Airport,Bondi,74.5,21.9,28.9,Rainy,Luxury,Early Morning,8.5,Sunday
+221,60,Male,Female,3,4,Bondi,Central,65.7,20.9,25.2,Rainy,SUV,Early Morning,2,Sunday
+222,25,Male,Male,4,3,Bondi,Parramatta,56.1,21,35,Rainy,Economy,Morning,9,Thursday
+223,61,Male,Female,3,4,Cockle Bay,Cronulla,76.9,19.6,27.8,Clear,Sedan,Evening,1,Thursday
+224,45,Male,Male,4,4,Airport,Bondi,56.7,22.9,26.7,Rainy,Luxury,Early Morning,10,Sunday
+225,54,Male,Male,2,5,Circular Quay,Manly,60.5,16.6,30.8,Clear,Sedan,Midday,5,Thursday
+226,37,Male,Male,4,4,Airport,Central,66.7,21.6,31.6,Rainy,Economy,Early Morning,8.5,Sunday
+227,42,Male,Non-binary,3,4,Darlinghurst,Kings Cross,12.8,1.4000000000000001,9.3,Rainy,Sedan,Afternoon,2,Thursday
+228,19,Male,Male,4,4,Manly,Olympic Park,104.7,29.7,53.3,Clear,Van,Night,1,Sunday
+229,61,Male,Female,3,4,Olympic Park,Circular Quay,66,19.4,34.1,Sunny,Sedan,Night,10,Friday
+230,19,Male,Male,3,4,Manly,Circular Quay,83.4,20.8,25.5,Rainy,Sedan,Evening,1,Wednesday
+231,29,Male,Male,5,3,Kings Cross,Newtown,30.2,9.5,28.3,Sunny,Sedan,Afternoon,5,Monday
+232,42,Male,Male,4,3,Airport,Darlinghurst,71.8,23,32.7,Rainy,Sedan,Early Morning,9,Sunday
+233,42,Male,Male,3,2,Airport,Redfern,80.2,21.6,32.5,Rainy,Luxury,Early Morning,5.5,Sunday
+234,49,Male,Non-binary,4,3,Bondi,Double Bay,27,4.6,11.9,Clear,SUV,Night,4,Thursday
+235,23,Male,Male,3,4,Central,Cockle Bay,14.2,3.3,14.4,Sunny,Sedan,Early Morning,1,Monday
+236,45,Female,Male,4,3,Double Bay,Bondi,82.3,21,30.2,Rainy,Sedan,Afternoon,6,Monday
+237,44,Male,Non-binary,2,3,Cronulla,Olympic Park,112.80000000000001,30.3,57.1,Clear,Sedan,Night,8,Monday
+238,37,Male,Male,3,4,Airport,Mosman,69.3,22.5,28.5,Rainy,Luxury,Early Morning,9,Sunday
+239,28,Male,Male,3,4,Manly,Darlinghurst,81.2,21.9,27.3,Sunny,Luxury,Evening,2,Friday
+240,30,Non-binary,Male,4,4,Surry Hills,Circular Quay,61.1,21.3,28.3,Rainy,Sedan,Early Morning,1,Wednesday
+241,62,Female,Female,3,3,Manly,Circular Quay,56.2,21.4,33.3,Clear,Van,Morning,8,Wednesday
+242,18,Male,Male,3,5,Central,Cockle Bay,15.1,3.3,14.2,Rainy,Sedan,Afternoon,2,Thursday
+243,40,Male,Male,3,4,Airport,Paddington,73.9,21.1,25.8,Rainy,Luxury,Early Morning,8.5,Sunday
+244,33,Female,Male,3,4,Circular Quay,Paddington,19.1,3.9,9.2,Cloudy,SUV,Night,4,Tuesday
+245,43,Male,Male,2,4,Double Bay,Cronulla,111.8,30,57.5,Rainy,Economy,Afternoon,6,Tuesday
+246,50,Female,Male,4,3,Airport,Manly,62.8,20.7,27.3,Cloudy,Luxury,Midday,9,Monday
+247,62,Male,Female,3,3,Bondi,Olympic Park,106.2,27,43,Cloudy,Van,Early Morning,5,Friday
+248,35,Female,Female,4,3,Airport,Darlinghurst,76.9,19.4,28.5,Rainy,Sedan,Evening,5,Friday
+249,37,Male,Male,4,4,Airport,Darlinghurst,79.9,21.2,30.8,Rainy,Luxury,Early Morning,10,Sunday
+250,35,Female,Male,4,5,Newtown,Manly,80.3,20.7,29.3,Rainy,Economy,Night,8,Thursday
+251,32,Female,Female,3,3,Circular Quay,Coogee,37.9,9.5,21.5,Cloudy,SUV,Morning,1,Sunday
+252,63,Female,Female,3,2,Redfern,Parramatta,56.7,22.7,30.9,Sunny,Sedan,Evening,7,Monday
+253,22,Female,Male,2,3,Airport,Newtown,59.3,23,29.1,Sunny,SUV,Early Morning,8,Thursday
+254,53,Male,Non-binary,3,3,Parramatta,Coogee,86.7,37.9,54.6,Rainy,Economy,Evening,3,Friday
+255,38,Male,Male,3,4,Airport,Central,72.3,23,25.9,Rainy,Luxury,Early Morning,7,Sunday
+256,40,Male,Female,3,4,Surry Hills,Double Bay,28.4,4.5,16.9,Rainy,Sedan,Afternoon,7,Thursday
