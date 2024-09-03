@@ -1,4 +1,4 @@
-# Statistical-Analysis-of-Ride-Sharing-Data
+# Statistical Analysis of Ride Sharing Data
 
 This project focuses on the statistical analysis of ride-sharing data, aiming to uncover patterns and relationships within the dataset. By examining various factors such as passenger ratings, driver characteristics, and ride details, the project seeks to provide insights into how these elements interact and influence one another.
 
